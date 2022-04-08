@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://github.com/me-santu"><img src="https://github-profile-trophy.vercel.app/?username=me-santu" alt="me-santu" /></a> </p>
 
 </details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=me-santu&show_icons=true&locale=en" alt="me-santu" /></p>
 
 
 <!---
